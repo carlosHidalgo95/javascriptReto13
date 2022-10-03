@@ -26,4 +26,4 @@ switch (signo) {
             console.log("Uno de los operandos no es un número o no has introducido un simbolo aritmético");
             break;
 }
-console.log(resultado);
+alert("Resultado: "+resultado);
